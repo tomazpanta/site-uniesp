@@ -1,0 +1,22 @@
+{
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "IA Revoluciona Diagnóstico Médico com Alta Precisão",
+      "texto": "Pesquisadores de uma universidade de renome anunciaram a criação de um modelo de inteligência artificial capaz de diagnosticar doenças com maior precisão do que médicos experientes. O sistema analisa exames de imagem e sintomas para fornecer um diagnóstico rápido e confiável, prometendo acelerar os tratamentos e salvar vidas.",
+      "imagem": "/noticias/image1.jpeg"
+    },
+    {
+      "id": "2",
+      "titulo": "Startups de IA Desenvolvem Soluções para Otimização de Energia",
+      "texto": "Empresas de tecnologia estão utilizando a inteligência artificial para otimizar o consumo de energia, ajudando indústrias a reduzir custos e aumentar a eficiência. A IA é capaz de prever padrões de consumo e ajustar automaticamente sistemas de energia, uma revolução no setor de sustentabilidade.",
+      "imagem": "/noticias/image2.jpeg"
+    },
+    {
+      "id": "3",
+      "titulo": "Avanços em IA Criam Programas de Ensino Personalizados",
+      "texto": "Sistemas de inteligência artificial agora são capazes de adaptar programas de ensino para cada aluno, oferecendo um currículo personalizado. Isso é possível graças ao uso de algoritmos de aprendizado de máquina que analisam o desempenho e ajustam o conteúdo conforme as necessidades individuais dos estudantes.",
+      "imagem": "/noticias/image3.avif"
+    }
+  ]
+}

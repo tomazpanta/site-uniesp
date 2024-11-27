@@ -4,6 +4,15 @@ import { Container, Box, CssBaseline } from '@mui/material'
 import Navbar from './components/Navbar'
 import BannerAd from './components/BannerAd'
 import Inicial from './pages/Inicial'
+import Faculdade from './pages/Faculdade'
+import DpoLgpd from './pages/DpoLgpd'
+import Noticias from './pages/Noticias'
+import VisualizaNoticia from './pages/VisualizaNoticia'
+import CadastroNoticia from './pages/admin/CadastroNoticias'
+import EditarNoticia from './pages/admin/EditarNoticia'
+import AdminNoticias from './pages/admin/AdminNoticias'
+
+
 
 const App = () => {
   return (
@@ -19,6 +28,13 @@ const App = () => {
 
         <Routes>
           <Route path="/" element={<Inicial />} />
+          <Route path="/a-faculdade" element={<Faculdade />} />
+          <Route path="/dpo-lgpd" element={<DpoLgpd />} />
+          <Route path="/noticias"element={<Noticias />} />
+          <Route path="/visualiza-noticia/:id"element={<VisualizaNoticia />} />
+          <Route path="/cadastrar-noticia" element={<CadastroNoticia />} />
+          <Route path="/editar-noticia/:id" element={<EditarNoticia />} />
+          <Route path="/admin-noticias"element={<AdminNoticias />} />        
         </Routes>
 
       </Box>
