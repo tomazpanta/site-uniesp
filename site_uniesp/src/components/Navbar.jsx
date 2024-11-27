@@ -106,7 +106,6 @@ const Navbar = () => {
         </Toolbar>
       </Container>
 
-      {/* Diálogo de Login */}
       <Dialog open={openLoginDialog} onClose={handleLoginDialogClose}>
         <DialogTitle>Login</DialogTitle>
         <DialogContent>
