@@ -110,10 +110,7 @@ site_uniesp/
 ---
 
 ## 🌐 Implantação na Vercel
-Para publicar este projeto na **Vercel**:
-1. Certifique-se de que o repositório está no **GitHub**.
-2. Conecte o repositório à conta na **Vercel**.
-3. Configure as variáveis de ambiente (se necessário).
-4. Siga as instruções da Vercel para realizar o deploy.
+
+Para acesso do site Pela **Vercel**: https://site-uniesp-black.vercel.app/
 
 ---
