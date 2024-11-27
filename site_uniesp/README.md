@@ -111,6 +111,6 @@ site_uniesp/
 
 ## 🌐 Implantação na Vercel
 
-Para acesso do site Pela **Vercel**: https://site-uniesp-black.vercel.app/
+Para acesso do site Pela **Vercel**: https://site-uniesp-gamma.vercel.app/
 
 ---
